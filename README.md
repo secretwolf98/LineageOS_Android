@@ -45,11 +45,13 @@ Then to sync up:
 To build this ROM:
 
 croot
+
 brunch degaswifi
 
 or if you are build for degas:
 
 croot
+
 brunch degas
 
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions.
