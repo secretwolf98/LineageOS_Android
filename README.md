@@ -48,7 +48,7 @@ croot
 
 brunch degaswifi
 
-or if you are build for degas:
+or if you are building for degas:
 
 croot
 
