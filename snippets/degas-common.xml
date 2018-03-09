@@ -14,6 +14,7 @@
            revision="cm-14.1" />
 
   <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degaswifi" remote="secretwolf98" revision="cm-14.1" />
+  <project path="kernel/samsung/degas" name="android_kernel_samsung_degaswifi" remote="secretwolf98" revision="cm-14.1" />
 
   <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="secretwolf98" />
   <project path="device/samsung/degas" name="android_device_samsung_degaswifi" remote="secretwolf98" />
