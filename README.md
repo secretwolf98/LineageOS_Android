@@ -1,7 +1,7 @@
 # LineageOS_Android
 
 LineageOS
-===========
+=========
 
 Submitting Patches
 ------------------
@@ -35,7 +35,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/secretwolf98/LineageOS_Android.git -b cm-14.1
+    repo init -u git://github.com/secretwolf98/LineageOS_Android.git -b cm-11.0
 
 Then to sync up:
 
@@ -47,12 +47,6 @@ To build this ROM:
 croot
 
 brunch degaswifi
-
-or if you are building for degas:
-
-croot
-
-brunch degas
 
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions.
 
