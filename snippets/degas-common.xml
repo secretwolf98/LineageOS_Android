@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="secretwolf98" fetch="../secretwolf98" revision="cm-14.1" />
+  <remote  name="GalaxyTab4" fetch="../GalaxyTab4" revision="cm-11.0" />
 
   <remote  name="unlegacy" fetch="../Unlegacy-Android"
-           revision="aosp-7.1" />
+           revision="aosp-4.4" />
 
   <remote  name="omni" fetch="../OmniROM"
            review="gerrit.omnirom.org"
-           revision="android-7.1" />
+           revision="android-4.4" />
            
   <remote  name="lnos" fetch="../LineageOS"
            review="review.lineageos.org"
-           revision="cm-14.1" />
+           revision="cm-11.0" />
 
-  <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degaswifi" remote="secretwolf98" revision="cm-14.1" />
-  <project path="kernel/samsung/degas" name="android_kernel_samsung_degas" remote="secretwolf98" revision="cm-14.1" />
+  <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degaswifi" remote="GalaxyTab4" revision="cm-11.0" />
 
-  <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="secretwolf98" />
-  <project path="device/samsung/degas" name="android_device_samsung_degas" remote="secretwolf98" />
+  <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="GalaxyTab4" />
 
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="unlegacy" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="unlegacy" revision="stable" />
