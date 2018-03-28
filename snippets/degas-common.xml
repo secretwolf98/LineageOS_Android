@@ -13,7 +13,7 @@
            review="review.lineageos.org"
            revision="cm-11.0" />
 
-  <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degaswifi" remote="GalaxyTab4" revision="cm-11.0" />
+  <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degas" remote="GalaxyTab4" revision="cm-11.0" />
 
   <project path="device/samsung/degaswifi" name="android_device_samsung_degaswifi" remote="GalaxyTab4" />
 
