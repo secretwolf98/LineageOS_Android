@@ -14,7 +14,7 @@ You can do this by using these commands:
     (Go to repo you are patching, make your changes and commit)
     cmgerrit <for(new)/changes(patch set)> <branch/change-id>
 
-    repo start cm-11.0 .
+    repo start lineage-15.1 .
     (Make your changes and commit)
     repo upload .
 
@@ -35,7 +35,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/secretwolf98/LineageOS_Android.git -b cm-11.0
+    repo init -u git://github.com/secretwolf98/LineageOS_Android.git -b lineage-15.1
 
 Then to sync up:
 
