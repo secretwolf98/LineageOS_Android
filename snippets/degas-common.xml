@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="GalaxyTab4" fetch="../GalaxyTab4" revision="cm-11.0" />
+  <remote  name="GalaxyTab4" fetch="../GalaxyTab4" revision="lineage-15.1" />
 
   <remote  name="unlegacy" fetch="../Unlegacy-Android"
-           revision="aosp-4.4" />
+           revision="aosp-8.1" />
 
   <remote  name="omni" fetch="../OmniROM"
            review="gerrit.omnirom.org"
-           revision="android-4.4" />
+           revision="android-8.1" />
            
   <remote  name="lnos" fetch="../LineageOS"
            review="review.lineageos.org"
-           revision="cm-11.0" />
+           revision="lineage-15.1" />
 
   <project path="kernel/samsung/degaswifi" name="android_kernel_samsung_degas" remote="GalaxyTab4" revision="cm-11.0" />
 
